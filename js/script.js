@@ -1,4 +1,4 @@
-<script>
+
 $(document).ready(function(){
     $("#mycarousel").carousel( { interval: 2000 } );
     $("#carouselButton").click(function(){
@@ -22,4 +22,4 @@ $(document).ready(function(){
         $("#reservetableModal").modal('toggle');
       });  
 });
-</script>
+
