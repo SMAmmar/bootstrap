@@ -28,7 +28,7 @@
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-imagemin": "^2.0.1",
     "grunt-sass": "^2.1.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^3.9.3",
     "gulp-flatmap": "^1.0.2",
     "gulp-htmlmin": "^4.0.0",
